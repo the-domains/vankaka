@@ -1,6 +1,6 @@
 name: Vankaka
 favicon: null
-layout_spectrum: 0.77597
+layout_spectrum: 1
 typography_spectrum: 0.51138
 title: Thiết kế website
 cta:
@@ -22,8 +22,8 @@ color:
     - '#8d7a6b'
     - '#1c1d1c'
     - '#589f3f'
-  brandStrength: 0.5625
-  lightness: 0.4375
-  saturation: 0.3125
+  brandStrength: 0
+  lightness: 0
+  saturation: 0.0625
   rhythmicContrast: 0
 purpose: []
