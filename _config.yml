@@ -1,7 +1,7 @@
 name: Vankaka
 favicon: null
 layout_spectrum: 1
-typography_spectrum: 0.9522146049421281
+typography_spectrum: 0.51138
 title: Thiết kế
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
+    - '#ddc7b7'
+    - '#ffffff'
+    - '#8d7a6b'
+    - '#1c1d1c'
+    - '#589f3f'
   brandStrength: 0.3996726463083178
   lightness: 0.0993673678021878
   saturation: 0.6651367517188191
