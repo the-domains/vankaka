@@ -1,0 +1,28 @@
+name: Vankaka
+favicon: null
+layout_spectrum: 0.22855810797773302
+typography_spectrum: 0.9522146049421281
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.3996726463083178
+  lightness: 0.0993673678021878
+  saturation: 0.6651367517188191
+  rhythmicContrast: 0.33232964691706
+purpose: []
