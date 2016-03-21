@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Thiết kế]]></title>
         <description><![CDATA[Thiết kế]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/vankaka/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 21 Mar 2016 07:24:13 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 21 Mar 2016 07:24:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/vankaka/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/4a5d0706-0000-40be-ad07-0a17253a7cba.jpg">]]></description>
+            <link>https://thegrid.ai/vankaka/hello/index.html</link>
+            <guid isPermaLink="false">bf2464c6-648c-4744-b30a-73dcbfe70630</guid>
+            <pubDate>Mon, 21 Mar 2016 07:23:46 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/468592a5-79c3-4b96-8147-0f3059a813c3.jpg" alt="" title="" />]]></description>
-            <link>undefinedvankaka/index.html</link>
+            <link>https://thegrid.ai/vankaka/vankaka/index.html</link>
             <guid isPermaLink="false">13ddb9b2-d111-4af4-9378-52ef04bfa7d6</guid>
             <pubDate>Mon, 21 Mar 2016 07:23:27 GMT</pubDate>
         </item>
